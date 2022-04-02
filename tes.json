@@ -1,16 +1,16 @@
 {
   "Skin": [
     {
-      "name_skin": "",
-      "install": ""
+      "name_skin": "adventure-time skin",
+      "install": "https://godev3.github.io/adventimemod/skin/skin1.png"
     },
     {
-      "name_skin": "",
-      "install": ""
+      "name_skin": "adventure-time skin",
+      "install": "https://godev3.github.io/adventimemod/skin/skin2.png"
     },
     {
-      "name_skin": "",
-      "install": ""
+      "name_skin": "adventure-time skin",
+      "install": "https://godev3.github.io/adventimemod/skin/skin3.png"
     }
   ]
 }
